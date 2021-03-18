@@ -19,4 +19,4 @@ const MainHeader = () => {
     )
 }
 
-export default MainHeader
+export default MainHeader;

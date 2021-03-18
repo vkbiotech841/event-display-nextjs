@@ -74,4 +74,4 @@ const filteredEventPage = () => {
     )
 }
 
-export default filteredEventPage
+export default filteredEventPage;

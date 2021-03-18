@@ -22,4 +22,4 @@ const AllEventsPage = () => {
     )
 }
 
-export default AllEventsPage
+export default AllEventsPage;

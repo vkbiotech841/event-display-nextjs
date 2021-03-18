@@ -22,6 +22,7 @@ const eventDetailPage = () => {
 
     return (
         <Fragment>
+
             <EventSummary title={event.title} />
             <EventLogistics date={event.date} address={event.location} image={event.image} imageAlt={event.title} />
             <EventContent>
@@ -32,4 +33,4 @@ const eventDetailPage = () => {
     )
 }
 
-export default eventDetailPage
+export default eventDetailPage;

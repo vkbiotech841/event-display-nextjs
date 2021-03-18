@@ -8,7 +8,9 @@ const LogisticsItem = (props) => {
       <span className={classes.icon}>
         <Icon />
       </span>
-      <span className={classes.content}>{props.children}</span>
+      <span className={classes.content}>
+        {props.children}
+      </span>
     </li>
   );
 }
